@@ -22,3 +22,8 @@
 <input type="password" placeholder="Password" bind:value={password} />
 <button on:click={handleLogin}>Login</button>
 {#if error}<p style="color:red">{error}</p>{/if}
+<a href="/protocol">
+	<button style="margin-top: 2rem; padding: 0.5rem 1rem; background-color: #16a34a; color: white; border: none; border-radius: 5px;">
+		Gå til Protokol
+	</button>
+</a>
