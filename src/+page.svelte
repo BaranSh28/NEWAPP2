@@ -1,7 +1,2 @@
-<!-- src/routes/+page.svelte -->
-<script>
-  // optional: you can redirect to login here if you want
-</script>
-
-<h1>Welcome to the Demens Check-in App</h1>
-<p><a href="/login">Go to Login</a></p>
+<h1>Welcome to my app 🎉</h1>
+<p>This is the root page served from <code>/</code>.</p>
