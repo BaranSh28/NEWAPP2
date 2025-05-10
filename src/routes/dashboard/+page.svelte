@@ -13,7 +13,7 @@
   };
 </script>
 
-<h1>Pårørende Dashboard</h1>
+<h1>PlejePersonale Dashboard</h1>
 
 <p>Her får du et hurtigt overblik over de seneste registreringer.</p>
 
