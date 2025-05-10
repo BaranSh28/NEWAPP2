@@ -1,4 +1,4 @@
-import { vitePreprocess } from '@sveltejs/kit/node';
+import { vitePreprocess } from 'svelte';
 import adapter from '@sveltejs/adapter-vercel';
 
 const config = {
